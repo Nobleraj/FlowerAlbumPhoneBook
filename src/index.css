@@ -1,0 +1,18 @@
+/* .btn[data-active="true"] {
+  color: chocolate;
+  text-shadow: 1px 1px 0px burlywood;
+}
+.card {
+  display: none;
+  margin-top: 20px;
+}
+.card .MuiTypography-h5 {
+  text-transform: capitalize;
+}
+.card[data-active="true"] {
+  display: block;
+} */
+
+.card {
+  margin-top: 20px;
+}

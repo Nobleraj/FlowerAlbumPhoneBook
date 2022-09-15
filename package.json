@@ -1,0 +1,16 @@
+{
+  "name": "noblerajrajgmailcom",
+  "version": "3.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@emotion/react": "11.9.0",
+    "@emotion/styled": "11.8.1",
+    "@mui/lab": "5.0.0-alpha.82",
+    "@mui/material": "5.8.0",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}

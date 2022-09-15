@@ -1,0 +1,24 @@
+{
+  "flowers": [
+    {
+      "name": "rose",
+      "desc": "The rose is a type of flowering shrub. Its name comes from the Latin word Rosa."
+    },
+    {
+      "name": "lotus",
+      "desc": "The history and symbolism of the lotus flower dates back thousands of years. Nothing is more spiritual than this flower."
+    },
+    {
+      "name": "marigold",
+      "desc": " Marigolds are easy to grow, economical, bloom reliably all summer, and infrequently have insect and disease problems."
+    },
+    {
+      "name": "lily",
+      "desc": "Lilies, one of the most beloved bulbs for the summer garden, burst in with kaboom blossoms at an interlude when most flowers are in a holding pattern."
+    },
+    {
+      "name": "tulip",
+      "desc": "Tulips are a genus of spring-blooming perennial herbaceous bulbiferous geophytes. The flowers are usually large, showy and brightly coloured, generally red, pink, yellow, or white. "
+    }
+  ]
+}
